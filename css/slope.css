@@ -1,0 +1,111 @@
+.label{
+	font-size: 11px
+}
+/*.tip-slope-slope {
+	background: #fff;
+	padding: 8px;
+	border: 1px solid #ddd;
+	position: absolute;
+}
+*/
+.tip-slope {
+  border-radius: 3px;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+  background-color: #fff;
+  border: 1px solid #ccc;
+  position: absolute;
+  padding: 5px;
+  width: 260px;
+  font-size: 0.7em;
+  z-index: 1000;
+}
+.tip-slope .name {
+  font-weight: 700;
+}
+.tip-slope .number {
+  font-size: .7em;
+  margin-bottom: 10px;
+}
+.tip-slope table {
+  font-size: .8em;
+  width: 100%;
+  line-height: 1.1em;
+}
+
+.tip-slope table tr td:first-child {
+  padding-right: 10px;
+}
+
+.tip-slope .indicator{
+	font-size: 0.9em;
+	line-height: 1em;
+	font-style: italic;
+	padding-bottom: 10px;
+}
+
+/*    .attr("stroke-width", "3.5")
+    .attr("stroke-opacity","2")
+    .attr("stroke", "red")*/
+
+#legend_slope .legend-item {
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 5px;
+}
+#legend_slope .swatch {
+  width: 13px;
+  height: 13px;
+  display: inline-block;
+  margin-right: 5px;
+  border: 1px solid;
+}
+#legend_slope .name {
+  display: inline-block;
+  font-size: .9em;
+}
+#legend_slope .result {
+  text-align: right;
+  margin-top: 2px;
+  font-weight: 300;
+  font-size: .8em;
+}
+
+.btn {
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: "Open Sans", sans-serif;
+  color: black;
+  font-size: 0.8em;
+  background: #eee;
+  padding: 1px 20px 1px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: black;
+  color: white;
+  text-decoration: none;
+}
+
+.no{
+	display: none;
+}
+
+.showAll{
+	display: block;
+}
+
+.highlight{
+	stroke-width: 5;
+	stroke-opacity: 1;
+	stroke: #FFB739;
+	display: block;
+}
+
+.highlight-text{
+	display: block;
+	fill-opacity: 1;
+	font-weight: 600;
+	font-family: "Lato",sans-serif;
+}
