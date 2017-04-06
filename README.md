@@ -1,5 +1,13 @@
 # women-empowerment-index
 
+# ipl-ranks-history
+- **Headline**: Indian states and women: where are they empowered, where are they not
+- **Description**: HT calculated 'Women Empowerment Index' using official NFHS data in order to rank Indian states.
+- **Author**: Samarth Bansal
+- **Date**: 6 April, 2017
+- **URL**: [www.hindustantimes.com/interactives/women-empowerment-index/](www.hindustantimes.com/interactives/women-empowerment-index/)
+
+
 Hindustan Times computed 'Women Empowerment Index' using data from [National Family Health Survey 4]
 
 The survey provides us the following eight indictors under the category **'Women’s Empowerment and Gender-Based Violence'**:
