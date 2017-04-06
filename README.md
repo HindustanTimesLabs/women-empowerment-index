@@ -1,6 +1,5 @@
 # women-empowerment-index
 
-# ipl-ranks-history
 - **Headline**: Indian states and women: where are they empowered, where are they not
 - **Description**: HT calculated 'Women Empowerment Index' using official NFHS data in order to rank Indian states.
 - **Author**: Samarth Bansal
